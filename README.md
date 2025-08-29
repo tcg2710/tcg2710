@@ -1,4 +1,4 @@
-# Hi there, I'm Anand 👋  
+# Hi there, I'm DND 👋  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Python+%7C+AI+%7C+Bots;Open-Source+Contributor;Always+Learning+New+Things!" />
@@ -32,12 +32,12 @@ Automation ⚡ | Bots 🤖 | APIs 🔗 | Cybersecurity 🛡️
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tcg2710&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tcg2710&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tcg2710&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -48,7 +48,7 @@ Automation ⚡ | Bots 🤖 | APIs 🔗 | Cybersecurity 🛡️
 </p>
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
+  <img src="https://github.com/tcg2710/tcg2710/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
 </p>
 
 <p align="center">
